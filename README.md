@@ -1,11 +1,11 @@
 # Add Categories to Pages 
 
-Contributors: christosgam
-Requires at least: 3.2 
-Tested up to: 5.2.3
-Requires PHP: 5.2.4 
-Stable tag: trunk
-License: GPLv2 or Later
+Contributors: christosgam<br>
+Requires at least: 3.2<br> 
+Tested up to: 5.2.3<br>
+Requires PHP: 5.2.4<br> 
+Stable tag: trunk<br>
+License: GPLv2 or Later<br>
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Adding Categories to pages.
@@ -26,8 +26,8 @@ This simple and lightweight plugin helps you add categories to your WordPress pa
 
 <h4> Frequently Asked Questions </h4>
 <ol>
-  <li><b>Can I use the post categories for my pages?<b><br><br>Yes, you can use the same categories.</li>
-  <li><b>When I view the category will I see the page as well?<b><br><br>Yes.</li>
+  <li><b>Can I use the post categories for my pages?</b><br>Yes, you can use the same categories.<br></li>
+  <li><b>When I view the category will I see the page as well?</b><br>Yes.</li>
 
 
 

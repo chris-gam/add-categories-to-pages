@@ -1,4 +1,5 @@
-=== Add Categories to Pages ===
+# Add Categories to Pages 
+
 Contributors: christosgam
 Requires at least: 3.2 
 Tested up to: 5.2.3
@@ -9,26 +10,27 @@ License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Adding Categories to pages.
 
-== Description ==
+<h4> Description </h4>
+
 This simple and lightweight plugin helps you add categories to your WordPress pages.
 
-== Installation ==
-1. Upload the plugin files to the `/wp-content/plugins/add-categories-to-pages` directory, or install the plugin through the WordPress plugins screen directly.
+<h4> Installation </h4>
 
-2. Activate the plugin through the \'Plugins\' screen in WordPress
+<ol>
+<li>Upload the plugin files to the `/wp-content/plugins/add-categories-to-pages` directory, or install the plugin through the WordPress plugins screen directly.</li>
 
-3. You can now add categories to your pages.
+<li>Activate the plugin through the \'Plugins\' screen in WordPress</li>
 
-== Frequently Asked Questions ==
-1. Can I use the post categories for my pages?
+<li>You can now add categories to your pages</li>
+</ol>
 
-Yes, you can use the same categories.
-
-2. When I view the category will I see the page as well?
-
-Yes.
-
+<h4> Frequently Asked Questions </h4>
+<ol>
+  <li><b>Can I use the post categories for my pages?<b><br><br>Yes, you can use the same categories.</li>
+  <li><b>When I view the category will I see the page as well?<b><br><br>Yes.</li>
 
 
-== Changelog ==
+
+<h4> Changelog </h4>
+
 0.1.0 - 08 September 2019

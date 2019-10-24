@@ -1,5 +1,7 @@
 # Add Categories to Pages 
 
+<a href="https://wordpress.org/plugins/add-categories-to-pages/">Wordpress Plugin Directory</a>
+
 Contributors: christosgam<br>
 Requires at least: 3.2<br> 
 Tested up to: 5.2.3<br>
